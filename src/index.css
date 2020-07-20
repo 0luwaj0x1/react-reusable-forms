@@ -69,6 +69,11 @@ button {
   color: #fff;
 }
 
+button:hover {
+  background: #ccc;
+  color: #2c2c2c;
+}
+
 ul {
   list-style: none;
   padding: 3rem 3rem;

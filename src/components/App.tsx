@@ -1,5 +1,4 @@
 import React from "react";
-import "./App.css";
 import RegistrationForm from "./RegistrationForm";
 import ContactForm from "./ContactForm";
 
