@@ -10,7 +10,7 @@ const Result = ({ data, errors }: Props) => {
     <div className="show-result">
       {Object.values(errors).length ? (
         <ul>
-          <p>Whoops! 🤬</p>
+          <p> Whoops! 🤬</p>
           {Object.keys(errors).map((key) => (
             <li style={{ color: "red" }} key={key}>
               {errors[key]}
