@@ -13,7 +13,7 @@ export const validators = (inputs: InputTypes[]) => {
   const errors: any = {}
 
    inputs.forEach(input => {
-     if(input.isrequired && !input.value) {
+     if(input.isRequired && !input.value) {
        errors[input.name] = `${input.name} is required`
      }
    })

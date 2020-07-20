@@ -1,24 +1,19 @@
 import React from 'react';
 import './App.css';
-import Form from './Form'
-import { Input, Button } from './elements/index'
+import RegistrationForm from './RegistrationForm'
+import ContactForm from './ContactForm'
 
 function App() {
 
-  const submisson = (formData: {}, errors: {}) => {
-      console.log(formData, errors)
-  }
+  /* const  = (formData: {}, errors: {}) => {
+      console.log( errors)
+  } */
 
 
   return (
-    <div className="App">
-        App
-        <Form onSubmit={submisson} >
-
-          <Input name="firstname" label="firstname" isrequired /> 
-          <Input name="lastname" label="lastname" /> 
-          <Button text="submit" />
-        </Form>
+    <div className="container">
+        <RegistrationForm />
+        <ContactForm />
     </div>
   );
 }
