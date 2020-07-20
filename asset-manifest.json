@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-reusable-forms/static/css/main.241824a9.chunk.css",
+    "main.js": "/react-reusable-forms/static/js/main.ac6bb2fb.chunk.js",
+    "main.js.map": "/react-reusable-forms/static/js/main.ac6bb2fb.chunk.js.map",
+    "runtime-main.js": "/react-reusable-forms/static/js/runtime-main.36639d72.js",
+    "runtime-main.js.map": "/react-reusable-forms/static/js/runtime-main.36639d72.js.map",
+    "static/js/2.1ef84e46.chunk.js": "/react-reusable-forms/static/js/2.1ef84e46.chunk.js",
+    "static/js/2.1ef84e46.chunk.js.map": "/react-reusable-forms/static/js/2.1ef84e46.chunk.js.map",
+    "index.html": "/react-reusable-forms/index.html",
+    "precache-manifest.60ad532b836aeaf2095743848044f6e0.js": "/react-reusable-forms/precache-manifest.60ad532b836aeaf2095743848044f6e0.js",
+    "service-worker.js": "/react-reusable-forms/service-worker.js",
+    "static/css/main.241824a9.chunk.css.map": "/react-reusable-forms/static/css/main.241824a9.chunk.css.map",
+    "static/js/2.1ef84e46.chunk.js.LICENSE.txt": "/react-reusable-forms/static/js/2.1ef84e46.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36639d72.js",
+    "static/js/2.1ef84e46.chunk.js",
+    "static/css/main.241824a9.chunk.css",
+    "static/js/main.ac6bb2fb.chunk.js"
+  ]
+}
